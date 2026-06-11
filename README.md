@@ -203,20 +203,6 @@ HR-Attrition-Analysis-Python-SQL-PowerBI
 
 ---
 
-## 📷 Dashboard Preview
-
-### Executive Summary Dashboard
-
-📍 Add Screenshot Here
-
-### Employee Analysis Dashboard
-
-📍 Add Screenshot Here
-
-### Attrition Insights Dashboard
-
-📍 Add Screenshot Here
-
 ---
 
 ## 🎓 Skills Demonstrated
